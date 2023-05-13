@@ -35,6 +35,14 @@ The Image Downloader is a PHP-based web application that allows you to download 
 
 - Bootstrap v5.3.0-alpha3 (CSS and JS) for styling and layout.
 
+
+## Screenshots
+
+Include some screenshots of the application in action to provide a visual representation of how it works.
+
+![Screenshot 1](/screenshot.png)
+
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
