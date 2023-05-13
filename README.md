@@ -40,7 +40,7 @@ The Image Downloader is a PHP-based web application that allows you to download 
 
 Include some screenshots of the application in action to provide a visual representation of how it works.
 
-![Screenshot 1](/screenshot.png)
+![Screenshot 1](/Screenshot.png)
 
 
 ## Contributing
